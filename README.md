@@ -9,3 +9,13 @@ Este laboratório tem como objetivo aplicar os conceitos de Excel no desenvolvim
 - Aplicar cálculos financeiros como rendimento mensal e cálculo de dividendos;
 - Documentar processos técnicos de forma clara e estruturada; 
 - Utilizar o GitHub como ferramenta para compartilhamento de documentação técnica. 
+
+<h2 id="Aluno">💻 Aluno</h2>
+<p>
+    <img align=left margin=10 width=80 src="IMG_20181121_100332889.jpg"/>
+    <p>&nbsp&nbsp&nbspLuide Lima<br>
+    <br/><br/>
+    &nbsp&nbsp&nbsp<a href="http://instagram.com/programi_">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/micheleambrosio">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/michele-ambrosio-a4899661/">LinkedIn</a>&nbsp;|&nbsp;<a href="https://www.twitch.tv/michele_ambrosio">Twitch</a></p>
+</p>
+<br/><br/>
+<p>
