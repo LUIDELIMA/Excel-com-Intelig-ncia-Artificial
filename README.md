@@ -4,7 +4,7 @@ Este laboratório tem como objetivo aplicar os conceitos de Excel no desenvolvim
 
 <img src="invest DIO One .jpg"><img src="invest DIO Two.jpg">
 
-## Aprendizagem:
+## 👨🏾‍💻 Aprendizagem 👨🏾‍💻:
 - Criar ferramentas de simulação de investimentos em Excel;
 - Aplicar cálculos financeiros como rendimento mensal e cálculo de dividendos;
 - Documentar processos técnicos de forma clara e estruturada; 
