@@ -26,7 +26,7 @@ Este projeto tem como objetivo criar uma ferramenta no Excel que ajude a organiz
     <img align=left margin=10 width=80 src="IMG_20181121_100332889.jpg"/>
     <p>&nbsp&nbsp&nbspLuide Lima<br>
     <br/><br/>
-    &nbsp&nbsp&nbsp<a href="http://instagram.com/programi_">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/micheleambrosio">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/luide-lima-83599680/">LinkedIn</a>&nbsp;|&nbsp;<a href="">Twitch</a></p>
+    &nbsp&nbsp&nbsp<a href="http://instagram.com/programi_">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/LUIDELIMA">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/luide-lima-83599680/">LinkedIn</a>&nbsp;
 </p>
 <br/><br/>
 <p>
